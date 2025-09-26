@@ -1,0 +1,2 @@
+eval "$(zoxide init bash --cmd cd)"
+

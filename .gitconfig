@@ -1,0 +1,26 @@
+[user]
+    name = Aditya Penumarti
+    email = apenumarti@ufl.edu
+
+[core]
+    editor = nvim
+    excludesfile = ~/.gitignore_global
+
+[color]
+    ui = auto
+
+[alias]
+    log = log --oneline --graph --decorate --all
+
+[push]
+    default = current
+
+[pull]
+    rebase = true
+
+[diff]
+    tool = vimdiff
+
+[merge]
+    tool = vimdiff
+
